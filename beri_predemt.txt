@@ -3,3 +3,4 @@ OPDP
 IKT
 Komuniciranje
 DeloVSkupinah
+OsnoveIKT
